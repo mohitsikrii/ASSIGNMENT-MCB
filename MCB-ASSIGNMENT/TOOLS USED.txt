@@ -1,0 +1,13 @@
+Tools Used:
+
+    Oracle APEX (Application Express):
+        Purpose: Used for creating and managing the database schema, writing and testing SQL queries, and developing PL/SQL procedures.
+        Features Utilized:
+            SQL Workshop: For running SQL commands and managing database objects.
+            SQL Scripts: For executing and validating PL/SQL code and schema changes.
+
+    Lucidchart:
+        Purpose: Used for creating and visualizing the database schema diagrams, including Primary Key (PK) and Foreign Key (FK) relationships.
+        Features Utilized:
+            Entity-Relationship Diagrams (ERDs): For mapping out table relationships and constraints.
+            Shapes and Connectors: For representing PKs, FKs, and table connections clearly.

@@ -1,0 +1,72 @@
+Supplier Name: DIGISAY CO. LTD.
+Supplier Contact Name: Berry Parker
+Supplier Contact No. 1: 5784-1266
+Supplier Contact No. 2: 602-8010
+Total Orders: 2
+Order Total Amount: 114,600.00
+
+Supplier Name: EMTELLO LTD
+Supplier Contact Name: Megan Hembly
+Supplier Contact No. 1: 242-0641
+Supplier Contact No. 2: 5784-1698
+Total Orders: 2
+Order Total Amount: 42,000.00
+
+Supplier Name: FIRELAND BROS.
+Supplier Contact Name: Amelia Bridney
+Supplier Contact No. 1: 5948-0015
+Supplier Contact No. 2: 
+Total Orders: 1
+Order Total Amount: 36,800.00
+
+Supplier Name: FOXY ELECTRONICS
+Supplier Contact Name: Reddy Floyd
+Supplier Contact No. 1: 5284-5412
+Supplier Contact No. 2: 
+Total Orders: 1
+Order Total Amount: 182,700.00
+
+Supplier Name: JINFIX COMPUTERS
+Supplier Contact Name: Jordan Liu Min
+Supplier Contact No. 1: 219-5412
+Supplier Contact No. 2: 5841-2556
+Total Orders: 2
+Order Total Amount: 170,400.00
+
+Supplier Name: LAMBONI STAT INC.
+Supplier Contact Name: Frederic Pey
+Supplier Contact No. 1: 5255-7435
+Supplier Contact No. 2: 
+Total Orders: 2
+
+Order Total Amount: 50,000.00
+
+Supplier Name: MOTTOWAY CORP.
+Supplier Contact Name: Stevens Seernah
+Supplier Contact No. 1: 5794-2513
+Supplier Contact No. 2: 
+Total Orders: 2
+Order Total Amount: 6,569,625.00
+
+Supplier Name: PEGASUS LTD
+Supplier Contact Name: Georges Neeroo
+Supplier Contact No. 1: 461-5841
+Supplier Contact No. 2: 5741-2545
+Total Orders: 4
+Order Total Amount: 550,000.00
+
+Supplier Name: SAFEDEST TAXI SERVICES
+Supplier Contact Name: Steeve Narsimullu
+Supplier Contact No. 1: 217-4512
+Supplier Contact No. 2: 5874-1002
+Total Orders: 2
+Order Total Amount: 53,400.00
+
+Supplier Name: STUFFIE STATIONERY
+Supplier Contact Name: Zenhir Belall
+Supplier Contact No. 1: 654-7416
+Supplier Contact No. 2: 
+Total Orders: 1
+Order Total Amount: 250,000.00
+
+Statement processed.
